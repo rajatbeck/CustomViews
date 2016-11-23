@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GoalProgressBar">
+        <attr name="goalIndicatorWidth" format="dimension" />
+        <attr name="goalIndicatorHeight" format="dimension" />
+        <attr name="goalReachedColor" format="color" />
+        <attr name="goalNotReachedColor" format="color" />
+        <attr name="unfilledSectionColor" format="color" />
+        <attr name="barHeight" format="dimension" />
+    </declare-styleable>
+</resources>

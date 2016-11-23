@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViews</string>
+    <string name="reset_progress">Reset Progress</string>
+</resources>
